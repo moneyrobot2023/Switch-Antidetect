@@ -1,0 +1,1 @@
+{"$id":"1","access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoic2F0b25hMjAwN0B5YW5kZXguY29tIiwibmJmIjoxNzAxMjY2NTY1LCJleHAiOjE3MDYwNjY1NjUsImlzcyI6Ik15Qm90U2VydmVyIiwiYXVkIjoiTXlCb3RDbGllbnQifQ.sHDQkats85N8Xcy57wMuiXTxFs8dlQ83BW013wORB_M","code":777,"last_version":"1.14.1.0"}
